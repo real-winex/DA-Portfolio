@@ -10,4 +10,4 @@
 - Formated charts onto DB
 - Polished charts and KPI's 
 
-  [PICTURES CAN BE FOUND ABOVE]
+  [PICTURES INCLUDED ABOVE]
