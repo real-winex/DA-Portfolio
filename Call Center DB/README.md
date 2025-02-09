@@ -8,3 +8,5 @@
 - Moved onto chart creation
 - Polished charts and KPI's 
 - Grid Creation 
+
+[PICTURES INCLUDED ABOVE]
