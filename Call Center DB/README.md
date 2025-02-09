@@ -1,12 +1,15 @@
 - Got Task at hand overview of project
-- Loaded data into Excel to assess and form plan 
-- CLEANED Data
-- Transfered data into Power Bi 
-- CREATED Data Charts
-- DESIGNED dashboard ideas
-- Tackled KPI's 
-- Moved onto chart creation
-- Polished charts and KPI's 
-- Grid Creation 
+- Loaded data into excel to assess and form plan 
+- Cleaned data
+- Transfered data into power bi
+- Set table relationships
+- Created measurments
+- Db design
+- Created data charts
+- KPI creation
+- Chart creation
+- Formating / polishing
+- Grid Creation
+- Double Check + Completion 
 
 [PICTURES INCLUDED ABOVE]
