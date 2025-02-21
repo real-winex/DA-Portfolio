@@ -1,1 +1,1 @@
-
+I developed a Power BI dashboard to analyze Adidas sales data, showcasing total sales, units sold, average price per unit, and operating profit. Using Excel for data cleaning and initial analysis, I then structured and transferred the data to Power BI, where I established relationships, created measures, and built visualizations . With polished formatting and KPI integration, the dashboard provided a clear, interactive, and data-driven view of sales performance.
