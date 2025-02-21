@@ -1,1 +1,1 @@
-
+I created a Power BI dashboard to present a market summary for Tata Consultancy Services, tracking key stock metrics. Using Excel for data cleaning and analysis, I then transferred the structured data to Power BI, where I built relationships, created measures, and designed visualizations displaying stock trends . Accompanied with KPI integration and polished formatting, the dashboard provided a clear and interactive view of the company’s market performance.
