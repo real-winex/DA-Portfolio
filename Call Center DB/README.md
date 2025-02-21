@@ -1,15 +1,1 @@
-- Got Task at hand overview of project
-- Loaded data into excel to assess and form plan 
-- Cleaned data
-- Transfered data into power bi
-- Set table relationships
-- Created measurments
-- Db design
-- Created data charts
-- KPI creation
-- Chart creation
-- Formating / polishing
-- Grid Creation
-- Double Check + Completion 
-
-[PICTURES INCLUDED ABOVE]
+I built a Power BI dashboard to analyze call center performance, tracking total calls, call duration by minutes and hours, response times, and call distribution by state and day. Using Excel for initial data assessment, I cleaned and structured the data before transferring it to Power BI, where I established table relationships, created measures, and designed insightful visualizations. With interactive filters for date, city, and channel, along with polished formatting and KPI integration, the dashboard provided a clear and actionable view of call center efficiency.
