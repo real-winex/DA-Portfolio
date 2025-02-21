@@ -1,16 +1,1 @@
-- Got task at hand overview of project
-- Loaded data with SQL to assess and form plan
-- Cleaned & transformed data with SQL queries
-- Got neccasary calculations done with SQL
-- Transfered data into Power Bi
-- Connect Tables 
-- Created Measurments 
-- DB design
-- Chart creation 
-- KPI creation 
-- Formating / Polishing
-- Double Check + Completion 
-
-
-
-[PICTURES INCLUDED ABOVE]
+I developed a dynamic Power BI dashboard to provide a comprehensive sales overview for a dropshipping business, integrating SQL for data extraction, cleaning, and calculations. The dashboard featured year and month filters, sales breakdowns by top customers and products, and key performance metrics. I designed the database structure, connected tables, created measures, and built insightful visualizations, ensuring a polished and user-friendly analytical tool for sales performance tracking.
