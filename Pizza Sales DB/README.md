@@ -1,14 +1,1 @@
-- Got task at hand overview of project
-- Loaded data with SQL to assess and form plan 
-- Cleaned data with SQL quries
-- Got neccasary calculations done with SQL
-- Transfered data into Excel
-- Created data charts
-- Created six pivot tables 
-- DB design
-- KPI creation
-- Formatting 
-- Polished charts and KPI's
-- Double Check + Completion 
-
-  [PICTURES INCLUDED ABOVE]
+  I designed and developed a comprehensive Excel dashboard to analyze a pizza company's sales performance, incorporating SQL for data extraction, cleaning, and calculations. The dashboard featured key metrics, hourly order trends, and best/worst-selling pizzas, supported by six pivot tables and dynamic data visualizations. I structured the database, defined KPIs, and applied polished formatting to ensure clarity and usability, delivering a complete and insightful sales analysis tool.
