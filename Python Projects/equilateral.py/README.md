@@ -14,7 +14,11 @@ or not the triangle is an equilateral triangle.
 
 
 An example of the program is shown below:
+
 Enter the first side: 5
+
 Enter the second side: 5
+
 Enter the third side: 5
+
 The triangle is equilateral.
