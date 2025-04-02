@@ -6,7 +6,7 @@ The computer must make no more than the minimum number of guesses,
 and it must prevent the user from cheating by entering misleading hints.
 
 Hint: Use the math.log function to compute the minimum number of guesses 
-needed after the lower and upper bounds are entered. (LO: 3.3, 3.4)
+needed after the lower and upper bounds are entered. 
 
 Instructions
 
